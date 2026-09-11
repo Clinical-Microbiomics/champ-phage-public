@@ -3,7 +3,7 @@
 This repository is currently private; it will be made public soon.
 
 ## License
-The code in this repository is source-available for inspection only; no license is granted.
+The code in this repository is source-available for inspection; no license is granted.
 
 ## Purpose
 This repository contains key scripts used in CHAMP phage profiling as of 7 September 2026. 
