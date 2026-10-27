@@ -1,7 +1,5 @@
 # champ-phage-public
 
-This repository is currently private; it will be made public soon.
-
 ## License
 The code in this repository is source-available for inspection; no license is granted.
 
@@ -10,10 +8,8 @@ This repository contains key scripts used in CHAMP phage profiling as of 7 Septe
 These are provided to allow inspection of code used to derive CHAMP phage relative abundance profiles.
 
 ## Scope & limitations
-- This repository is provided as-is with no support.
-- These scripts are not intended to be usable as a complete, standalone system.
-- At Cmbio, these scripts are part of a larger workflow; the remainder of that workflow is not publicly available.
-- These scripts depend on a phage genome sequence catalog and its annotations, which are also not publicly available.
+- This repository is provided as-is, without support.
+- These scripts are provided for transparency and reproducibility purposes and are not intended to function as a complete, standalone pipeline.
 
 ## Contents
 - Snakefile_phage_rules_only: Snakemake rules to run KMA mapping, rarefaction, and subsequent scripts.
